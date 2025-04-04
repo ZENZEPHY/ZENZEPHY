@@ -1,6 +1,6 @@
 # Hi there, I'm Adith K V 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F70000&center=true&vCenter=true&width=600&lines=Passionate+about+Security+%7C+ML+%7C+IoT;Exploring+Edge+AI+and+Predictive+Maintenance;Building+Real-time+Fleet+Monitoring+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F70000&center=true&vCenter=true&width=600&lines=Passionate+about+Security+%7C+ML+%7C+IoT;Exploring+Edge+AI+and+Predictive+Maintenance;Developing+AI-powered+Vehicle+Diagnostics)
 
 ## 🚀 About Me
 - 🎓 I'm a **B.Tech Student** with a passion for **programming, security, and machine learning**.
