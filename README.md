@@ -46,7 +46,7 @@
 ---
 
 ### 😂 Random Developer Meme
-![Meme](https://rm.up.railway.app/)
+![Meme](https://api.memegen.link/images/random.png)
 
 ---
 
