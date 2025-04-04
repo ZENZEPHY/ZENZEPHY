@@ -46,7 +46,7 @@
 ---
 
 ### 😂 Random Developer Meme
-![Meme](https://api.memegen.link/images/random.png)
+![Meme](https://api.memegen.link/images/ds/but_it_works_dont_touch_it.png)
 
 ---
 
